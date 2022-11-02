@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi, i am Phil! 👋
+## I am a Full Stack Developer focusing mainly on Blockchain Topics.
 
 <!--
 **phil-schmidtke/phil-schmidtke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
