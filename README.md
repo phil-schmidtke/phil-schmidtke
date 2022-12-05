@@ -1,12 +1,16 @@
 # Hi, i am Phil! 👋
-## I am a Full Stack Developer focusing mainly on Blockchain Topics.
+I am a Full Stack Developer focusing mainly on Finance / Blockchain Topics.
 
-### My Current Tech Stack:
-- React
-- Next.js
+## My Current Tech Stack:
+
+### Frontend
+- React / Next.js (with TS)
 - Angular
-- Typescript
-- Java
-- Spring Boot
-- Solidity
 - Webpack Module Federation (MicroFrontends)
+
+### Backend
+- Typescript
+- Java (Spring Boot)
+- Solidity
+- Go
+- Rust
