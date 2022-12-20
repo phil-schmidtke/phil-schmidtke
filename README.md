@@ -14,3 +14,6 @@ I am a Full Stack Developer focusing mainly on Finance / Blockchain Topics.
 - Solidity
 - Go
 - Rust
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
