@@ -18,16 +18,15 @@ I am a Full Stack Developer focusing mainly on Finance / Blockchain Topics.
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 December 2022 - To: 19 December 2022
+From: 12 December 2022 - To: 19 December 2022
 
-Total Time: 5 hrs 37 mins
+Total Time: 4 hrs
 
-TypeScript   4 hrs 41 mins   >>>>>>>>>>>>>>>>>>>>>----   83.49 %
-Markdown     21 mins         >>-----------------------   06.38 %
-JavaScript   16 mins         >------------------------   04.79 %
-CSS          5 mins          -------------------------   01.59 %
-Bash         5 mins          -------------------------   01.49 %
-JSON         4 mins          -------------------------   01.42 %
+TypeScript   3 hrs 42 mins   >>>>>>>>>>>>>>>>>>>>>>>--   92.38 %
+JavaScript   6 mins          >------------------------   02.82 %
+CSS          5 mins          >------------------------   02.23 %
+JSON         3 mins          -------------------------   01.41 %
+Other        2 mins          -------------------------   01.15 %
 ```
 
 <!--END_SECTION:waka-->
