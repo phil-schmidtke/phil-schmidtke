@@ -7,15 +7,15 @@ The times and languages are only for my private projects after work.
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 December 2022 - To: 19 December 2022
+From: 14 December 2022 - To: 21 December 2022
 
-Total Time: 4 hrs
+Total Time: 16 hrs 48 mins
 
-TypeScript   3 hrs 42 mins   >>>>>>>>>>>>>>>>>>>>>>>--   92.38 %
-JavaScript   6 mins          >------------------------   02.82 %
-CSS          5 mins          >------------------------   02.23 %
-JSON         3 mins          -------------------------   01.41 %
-Other        2 mins          -------------------------   01.15 %
+TypeScript   12 hrs 39 mins  >>>>>>>>>>>>>>>>>>>------   75.35 %
+JavaScript   2 hrs 20 mins   >>>----------------------   13.92 %
+JSON         40 mins         >------------------------   04.06 %
+CSS          37 mins         >------------------------   03.73 %
+Other        11 mins         -------------------------   01.16 %
 ```
 
 <!--END_SECTION:waka-->
