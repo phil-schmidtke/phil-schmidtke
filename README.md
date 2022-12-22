@@ -1,9 +1,7 @@
 # Hi, i am Phil! 👋
 I am a Full Stack Developer focusing mainly on Finance / Blockchain
 
-i already worked with these langauges: Typescript, Python, Solidity, GoLang, Java, C#, Rust 
-and these frameworks: Nexts.js, React, Angular, Nest.js, Spring Boot, Hardhat ,Fast Api, Django and with these big libaries: prisma, tailwindcss, framer-motion, web3.js, spline.  
-The times and languages are only for my private projects after work.
+These Languages and Times only represent the work on private projects after my workday.
 <!--START_SECTION:waka-->
 
 ```text
@@ -19,3 +17,18 @@ Other        11 mins         -------------------------   01.16 %
 ```
 
 <!--END_SECTION:waka-->
+
+## List of Languages
+- Typescript / Javascript
+- Java
+- Python
+- GoLang
+- C#
+
+## List of Frameworks / Libaries
+- Next.js / React
+- Angular
+- Solid.js
+- Svelte
+- Tailwind
+- Prisma
