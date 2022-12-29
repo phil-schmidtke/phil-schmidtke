@@ -5,15 +5,16 @@ These Languages and Times only represent the work on private projects after my w
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 December 2022 - To: 26 December 2022
+From: 20 December 2022 - To: 27 December 2022
 
-Total Time: 13 hrs 53 mins
+Total Time: 7 hrs 7 mins
 
-TypeScript   9 hrs 46 mins   >>>>>>>>>>>>>>>>>>-------   70.39 %
-JavaScript   2 hrs 26 mins   >>>>---------------------   17.52 %
-JSON         41 mins         >------------------------   04.96 %
-CSS          32 mins         >------------------------   03.87 %
-Other        8 mins          -------------------------   01.08 %
+TypeScript   5 hrs 56 mins   >>>>>>>>>>>>>>>>>>>>>----   83.42 %
+JavaScript   49 mins         >>>----------------------   11.59 %
+JSON         13 mins         >------------------------   03.25 %
+HTML         4 mins          -------------------------   00.99 %
+CSS          2 mins          -------------------------   00.65 %
+Markdown     0 secs          -------------------------   00.08 %
 ```
 
 <!--END_SECTION:waka-->
