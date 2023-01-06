@@ -18,18 +18,3 @@ TOML         6 mins          -------------------------   01.30 %
 ```
 
 <!--END_SECTION:waka-->
-
-## List of Languages
-- Typescript / Javascript
-- Java
-- Python
-- GoLang
-- C#
-
-## List of Frameworks / Libaries
-- Next.js / React
-- Angular
-- Solid.js
-- Svelte
-- Tailwind
-- Prisma
