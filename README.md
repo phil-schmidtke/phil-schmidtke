@@ -5,16 +5,16 @@ These Languages and Times only represent the work on private projects after my w
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 January 2023 - To: 14 January 2023
+From: 08 January 2023 - To: 15 January 2023
 
-Total Time: 24 hrs 44 mins
+Total Time: 23 hrs 33 mins
 
-TypeScript   15 hrs 36 mins  >>>>>>>>>>>>>>>>---------   63.10 %
-Rust         4 hrs 35 mins   >>>>>--------------------   18.56 %
-Go           2 hrs 24 mins   >>-----------------------   09.74 %
-XML          27 mins         -------------------------   01.86 %
-TOML         22 mins         -------------------------   01.51 %
-Other        17 mins         -------------------------   01.20 %
+TypeScript   16 hrs 14 mins  >>>>>>>>>>>>>>>>>--------   68.93 %
+Rust         2 hrs 49 mins   >>>----------------------   11.97 %
+Go           2 hrs 24 mins   >>>----------------------   10.23 %
+XML          27 mins         -------------------------   01.96 %
+JavaScript   19 mins         -------------------------   01.41 %
+TOML         18 mins         -------------------------   01.28 %
 ```
 
 <!--END_SECTION:waka-->
