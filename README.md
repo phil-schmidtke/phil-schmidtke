@@ -20,7 +20,7 @@ TOML         18 mins         -------------------------   01.28 %
 <!--END_SECTION:waka-->
 
 ## Main Projects
-
+- [See all Projects](https://www.github.com/phil-schmidtke/projects)
 ### Still Under Construction
 - [ETH-Whales](https://www.eth-whales.com)
 - [P-Fin](https://www.p-fin.de)
