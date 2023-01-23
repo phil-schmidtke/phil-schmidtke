@@ -5,13 +5,13 @@ These Languages and Times only represent the work on private projects after my w
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 January 2023 - To: 20 January 2023
+From: 14 January 2023 - To: 21 January 2023
 
-Total Time: 18 hrs 27 mins
+Total Time: 17 hrs 6 mins
 
-TypeScript   17 hrs 20 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.90 %
-JSON         18 mins         -------------------------   01.68 %
-Other        18 mins         -------------------------   01.67 %
+TypeScript   15 hrs 57 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.29 %
+JSON         18 mins         -------------------------   01.81 %
+Other        18 mins         -------------------------   01.81 %
 ```
 
 <!--END_SECTION:waka-->
