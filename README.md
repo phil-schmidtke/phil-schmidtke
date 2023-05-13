@@ -5,15 +5,15 @@ These Languages and Times only represent the work on private projects after my w
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 May 2023 - To: 10 May 2023
+From: 04 May 2023 - To: 11 May 2023
 
-Total Time: 18 hrs 55 mins
+Total Time: 20 hrs 9 mins
 
-TypeScript   15 hrs 46 mins  >>>>>>>>>>>>>>>>>>>>>----   83.38 %
-Other        47 mins         >------------------------   04.16 %
-Git Config   25 mins         >------------------------   02.27 %
-Docker       23 mins         >------------------------   02.09 %
-Bash         22 mins         -------------------------   01.95 %
+TypeScript   16 hrs 18 mins  >>>>>>>>>>>>>>>>>>>>-----   80.89 %
+Other        47 mins         >------------------------   03.92 %
+JavaScript   28 mins         >------------------------   02.32 %
+JSON         26 mins         >------------------------   02.18 %
+Git Config   25 mins         >------------------------   02.13 %
 ```
 
 <!--END_SECTION:waka-->
