@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Phil
 
-### Software Engineer
+### Full Stack Blockchain Dev
 
 * 👨‍💻  Currently mostly into webapps and wen3.
 * 🤝  Open Source Enthusiast
