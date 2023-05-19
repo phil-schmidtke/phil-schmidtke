@@ -1,26 +1,14 @@
-# Hi, i am Phil! 👋
-I am a Full Stack Developer focusing mainly on Finance / Blockchain
+### Hi there 👋 I'm Phil
 
-These Languages and Times only represent the work on private projects after my workday.
-<!--START_SECTION:waka-->
+### Software Engineer
 
-```text
-From: 11 May 2023 - To: 18 May 2023
+* 👨‍💻  Currently mostly into webapps and wen3.
+* 🤝  Open Source Enthusiast
+* 🌍  Based in Germany
+* 👨🏼‍💻 Working @ Deutsche Telekom IT
 
-Total Time: 9 hrs 53 mins
+### Stats
 
-TypeScript   5 hrs 28 mins   >>>>>>>>>>>>>>-----------   55.37 %
-JSON         2 hrs 7 mins    >>>>>--------------------   21.51 %
-JavaScript   34 mins         >------------------------   05.78 %
-TSConfig     27 mins         >------------------------   04.63 %
-Rust         21 mins         >------------------------   03.67 %
-```
-
-<!--END_SECTION:waka-->
-
-## Main Projects
-- [See all Projects](https://www.github.com/phil-schmidtke/projects)
-### Still Under Construction
-- [ETH-Whales](https://www.eth-whales.com)
-- [P-Fin](https://www.p-fin.de)
-- [Personal](https://www.phil-schmidtke.de)
+<div style="display: flex;"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=phil-schmidtke&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&show_icons=true" alt="juliusmarminge's GitHub stats" height="229" />
+</div>
