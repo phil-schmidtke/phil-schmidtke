@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Phil
 
-### Full Stack Blockchain Dev
-
-* 👨‍💻  Currently mostly into webapps and web3.
+* 👨‍💻  Currently mostly into Self Sovereign Identity and Web3.
 * 🤝  Open Source Enthusiast
 * 🌍  Based in Germany
 * 👨🏼‍💻 Working @ Deutsche Telekom IT
